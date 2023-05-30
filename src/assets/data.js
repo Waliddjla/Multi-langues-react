@@ -12,8 +12,8 @@ const traductions = {
     txt: "¡Descubra nuestras características y servicios!",
   },
   AR: {
-    title: "مرحبًا وأهلاً بك في الموقع",
-    txt: "اكتشف ميزاتنا وخدماتنا!",
+    title: ".مرحبًا وأهلاً بك في الموقع",
+    txt: "!اكتشف ميزاتنا وخدماتنا",
   },
 };
 
