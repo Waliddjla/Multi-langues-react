@@ -12,11 +12,6 @@ export default function ToggleLangs() {
     <img src={FrenchFlag} alt="image payes" />
     <img src={SpainFlag} alt="image payes" />
     <img src={EnglishFlag} alt="image payes" />
-
-
-
-
-
     </div>
   )
 }
