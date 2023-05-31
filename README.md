@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# [Multi Lang - React Web Application](https://multi-langs.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Multi Lang is a powerful React web application designed to revolutionize the way you handle multilingual support on your website. With support for multiple languages including English (EN), French (FR), Arabic (AR), and Spanish (ES), you can effortlessly cater to a diverse global audience.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Seamless Language Switching: With Multi Lang, changing the language of your website is as simple as clicking on a flag. Users can easily switch between different languages without any hassle, ensuring a smooth and personalized browsing experience.
 
-### `npm start`
+- Browser Language Detection: Multi Lang is built to support your browser's language settings out of the box. If the user's preferred language is not available, the application defaults to English (EN), making sure that no visitor is left behind.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Benefits
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Enhanced User Experience: By offering multilingual support, you can create a truly inclusive environment for your visitors. With Multi Lang, users will feel at ease navigating your website in their preferred language, leading to increased engagement and customer satisfaction.
 
-### `npm test`
+- Global Reach: Expand your reach to a wider audience by breaking language barriers. Multi Lang empowers you to connect with users from different linguistic backgrounds, opening up new markets and business opportunities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Time and Cost Efficiency: With Multi Lang, you don't have to worry about investing significant resources in developing and maintaining separate language versions of your website. The application streamlines the process, allowing you to focus on what matters most – your core business.
 
-### `npm run build`
+## Get Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the Multi Lang repository to your local machine.
+2. Install the necessary dependencies using your preferred package manager.
+3. Configure the supported languages in the `supportLang` array found in the application's settings file.
+4. Start the application and test the language switching functionality by clicking on the flags.
+5. Customize the user interface and language-specific content to match your brand and requirements.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Don't miss out on providing a personalized experience to your international users. Take advantage of Multi Lang today and unlock the potential of a truly global web presence!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Note: Remember to always keep the default language as English (EN) to ensure a seamless experience for users whose preferred language is not supported.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).*
